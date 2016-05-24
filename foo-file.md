@@ -9,3 +9,5 @@ new line with branch-1
 another new line with branch-2
 
 new line with branch-3
+
+new line with branch-4
